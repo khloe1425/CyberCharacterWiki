@@ -1,0 +1,13 @@
+The topics we'll cover while building this project are:
+	React Hooks (useState, useEffect)
+	React Components
+	Fetch API
+	Bootstrap - for styling
+	Pagination
+	Search bar
+	Data Filtering
+	Dynamic Routing
+	IIFE: An IIFE (Immediately Invoked Function Expression) is a JavaScript function that runs as soon as it is defined.
+		Example: (function () {
+  				statements
+			})();
